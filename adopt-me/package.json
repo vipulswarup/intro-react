@@ -26,6 +26,7 @@
   "dev:mock": "cross-env PET_MOCK=mock npm run dev",
   "dependencies": {
     "@frontendmasters/pet": "^1.0.3",
+    "@reach/router": "^1.3.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
